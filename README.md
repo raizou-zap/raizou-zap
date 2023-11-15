@@ -1,5 +1,5 @@
 # Socials
-[YouTube](https://www.youtube.com/@raizou_thunder)  
-[Twitter](https://twitter.com/raizou_thunder)  
-[GitHub](https://github.com/raizou-thunder)  
-[Discord](https://discord.gg/K6tgTtPHtf) (username:"raizou_thunder")
+[YouTube](https://www.youtube.com/@raizou_zap)  
+[Twitter](https://twitter.com/raizou_zap)  
+[GitHub](https://github.com/raizou-zap)  
+[Discord](https://discord.gg/K6tgTtPHtf) (username:"raizou_zap")
